@@ -2,6 +2,7 @@ package ie.gasgit;
 
 public class lambda_exp {
 	
+	
 	interface HelloWorld{
 		void sayHello(String message);
 	}
